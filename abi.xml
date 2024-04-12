@@ -170,6 +170,7 @@
       <elf-symbol name='__SCT__tp_func_android_vh_do_madvise_blk_plug' type='func-type' binding='global-binding' visibility='default-visibility' is-defined='yes' crc='0x98f99c5f'/>
       <elf-symbol name='__SCT__tp_func_android_vh_do_send_sig_info' type='func-type' binding='global-binding' visibility='default-visibility' is-defined='yes' crc='0xa9566dc2'/>
       <elf-symbol name='__SCT__tp_func_android_vh_do_shrink_slab' type='func-type' binding='global-binding' visibility='default-visibility' is-defined='yes' crc='0xa42b4f75'/>
+      <elf-symbol name='__SCT__tp_func_android_vh_do_swap_page_spf' type='func-type' binding='global-binding' visibility='default-visibility' is-defined='yes' crc='0x99b89dc0'/>
       <elf-symbol name='__SCT__tp_func_android_vh_do_wake_up_sync' type='func-type' binding='global-binding' visibility='default-visibility' is-defined='yes' crc='0x9fca4110'/>
       <elf-symbol name='__SCT__tp_func_android_vh_dump_throttled_rt_tasks' type='func-type' binding='global-binding' visibility='default-visibility' is-defined='yes' crc='0x3362dca'/>
       <elf-symbol name='__SCT__tp_func_android_vh_dup_task_struct' type='func-type' binding='global-binding' visibility='default-visibility' is-defined='yes' crc='0x266faae6'/>
