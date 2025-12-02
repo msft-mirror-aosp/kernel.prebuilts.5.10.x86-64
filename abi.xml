@@ -1758,144 +1758,144 @@
           <var-decl name='flags' type-id='7359adad' visibility='default' filepath='include/linux/irq.h' line='554' column='1'/>
         </data-member>
       </class-decl>
-      <class-decl name='device' size-in-bits='6912' is-struct='yes' visibility='default' filepath='include/linux/device.h' line='459' column='1' id='66e487eb'>
+      <class-decl name='device' size-in-bits='6912' is-struct='yes' visibility='default' filepath='include/linux/device.h' line='460' column='1' id='66e487eb'>
         <data-member access='public' layout-offset-in-bits='0'>
-          <var-decl name='kobj' type-id='b6ab8849' visibility='default' filepath='include/linux/device.h' line='460' column='1'/>
+          <var-decl name='kobj' type-id='b6ab8849' visibility='default' filepath='include/linux/device.h' line='461' column='1'/>
         </data-member>
         <data-member access='public' layout-offset-in-bits='768'>
-          <var-decl name='parent' type-id='fa0b179b' visibility='default' filepath='include/linux/device.h' line='461' column='1'/>
+          <var-decl name='parent' type-id='fa0b179b' visibility='default' filepath='include/linux/device.h' line='462' column='1'/>
         </data-member>
         <data-member access='public' layout-offset-in-bits='832'>
-          <var-decl name='p' type-id='0d3b0dcf' visibility='default' filepath='include/linux/device.h' line='463' column='1'/>
+          <var-decl name='p' type-id='0d3b0dcf' visibility='default' filepath='include/linux/device.h' line='464' column='1'/>
         </data-member>
         <data-member access='public' layout-offset-in-bits='896'>
-          <var-decl name='init_name' type-id='80f4b756' visibility='default' filepath='include/linux/device.h' line='465' column='1'/>
+          <var-decl name='init_name' type-id='80f4b756' visibility='default' filepath='include/linux/device.h' line='466' column='1'/>
         </data-member>
         <data-member access='public' layout-offset-in-bits='960'>
-          <var-decl name='type' type-id='cd28613b' visibility='default' filepath='include/linux/device.h' line='466' column='1'/>
+          <var-decl name='type' type-id='cd28613b' visibility='default' filepath='include/linux/device.h' line='467' column='1'/>
         </data-member>
         <data-member access='public' layout-offset-in-bits='1024'>
-          <var-decl name='bus' type-id='5e2671f8' visibility='default' filepath='include/linux/device.h' line='468' column='1'/>
+          <var-decl name='bus' type-id='5e2671f8' visibility='default' filepath='include/linux/device.h' line='469' column='1'/>
         </data-member>
         <data-member access='public' layout-offset-in-bits='1088'>
-          <var-decl name='driver' type-id='00c7b870' visibility='default' filepath='include/linux/device.h' line='469' column='1'/>
+          <var-decl name='driver' type-id='00c7b870' visibility='default' filepath='include/linux/device.h' line='470' column='1'/>
         </data-member>
         <data-member access='public' layout-offset-in-bits='1152'>
-          <var-decl name='platform_data' type-id='eaa32e2f' visibility='default' filepath='include/linux/device.h' line='471' column='1'/>
+          <var-decl name='platform_data' type-id='eaa32e2f' visibility='default' filepath='include/linux/device.h' line='472' column='1'/>
         </data-member>
         <data-member access='public' layout-offset-in-bits='1216'>
-          <var-decl name='driver_data' type-id='eaa32e2f' visibility='default' filepath='include/linux/device.h' line='473' column='1'/>
+          <var-decl name='driver_data' type-id='eaa32e2f' visibility='default' filepath='include/linux/device.h' line='474' column='1'/>
         </data-member>
         <data-member access='public' layout-offset-in-bits='1280'>
-          <var-decl name='mutex' type-id='925167dc' visibility='default' filepath='include/linux/device.h' line='478' column='1'/>
+          <var-decl name='mutex' type-id='925167dc' visibility='default' filepath='include/linux/device.h' line='479' column='1'/>
         </data-member>
         <data-member access='public' layout-offset-in-bits='1664'>
-          <var-decl name='links' type-id='2d178f63' visibility='default' filepath='include/linux/device.h' line='482' column='1'/>
+          <var-decl name='links' type-id='2d178f63' visibility='default' filepath='include/linux/device.h' line='483' column='1'/>
         </data-member>
         <data-member access='public' layout-offset-in-bits='2112'>
-          <var-decl name='power' type-id='f3166b6b' visibility='default' filepath='include/linux/device.h' line='483' column='1'/>
+          <var-decl name='power' type-id='f3166b6b' visibility='default' filepath='include/linux/device.h' line='484' column='1'/>
         </data-member>
         <data-member access='public' layout-offset-in-bits='4864'>
-          <var-decl name='pm_domain' type-id='a4375c03' visibility='default' filepath='include/linux/device.h' line='484' column='1'/>
+          <var-decl name='pm_domain' type-id='a4375c03' visibility='default' filepath='include/linux/device.h' line='485' column='1'/>
         </data-member>
         <data-member access='public' layout-offset-in-bits='4928'>
-          <var-decl name='msi_domain' type-id='7544e824' visibility='default' filepath='include/linux/device.h' line='491' column='1'/>
+          <var-decl name='msi_domain' type-id='7544e824' visibility='default' filepath='include/linux/device.h' line='492' column='1'/>
         </data-member>
         <data-member access='public' layout-offset-in-bits='4992'>
-          <var-decl name='msi_list' type-id='72f469ec' visibility='default' filepath='include/linux/device.h' line='497' column='1'/>
+          <var-decl name='msi_list' type-id='72f469ec' visibility='default' filepath='include/linux/device.h' line='498' column='1'/>
         </data-member>
         <data-member access='public' layout-offset-in-bits='5120'>
-          <var-decl name='dma_mask' type-id='3df9fd28' visibility='default' filepath='include/linux/device.h' line='502' column='1'/>
+          <var-decl name='dma_mask' type-id='3df9fd28' visibility='default' filepath='include/linux/device.h' line='503' column='1'/>
         </data-member>
         <data-member access='public' layout-offset-in-bits='5184'>
-          <var-decl name='coherent_dma_mask' type-id='91ce1af9' visibility='default' filepath='include/linux/device.h' line='503' column='1'/>
+          <var-decl name='coherent_dma_mask' type-id='91ce1af9' visibility='default' filepath='include/linux/device.h' line='504' column='1'/>
         </data-member>
         <data-member access='public' layout-offset-in-bits='5248'>
-          <var-decl name='bus_dma_limit' type-id='91ce1af9' visibility='default' filepath='include/linux/device.h' line='508' column='1'/>
+          <var-decl name='bus_dma_limit' type-id='91ce1af9' visibility='default' filepath='include/linux/device.h' line='509' column='1'/>
         </data-member>
         <data-member access='public' layout-offset-in-bits='5312'>
-          <var-decl name='dma_range_map' type-id='fdd592fa' visibility='default' filepath='include/linux/device.h' line='509' column='1'/>
+          <var-decl name='dma_range_map' type-id='fdd592fa' visibility='default' filepath='include/linux/device.h' line='510' column='1'/>
         </data-member>
         <data-member access='public' layout-offset-in-bits='5376'>
-          <var-decl name='dma_parms' type-id='9b4aaf1f' visibility='default' filepath='include/linux/device.h' line='511' column='1'/>
+          <var-decl name='dma_parms' type-id='9b4aaf1f' visibility='default' filepath='include/linux/device.h' line='512' column='1'/>
         </data-member>
         <data-member access='public' layout-offset-in-bits='5440'>
-          <var-decl name='dma_pools' type-id='72f469ec' visibility='default' filepath='include/linux/device.h' line='513' column='1'/>
+          <var-decl name='dma_pools' type-id='72f469ec' visibility='default' filepath='include/linux/device.h' line='514' column='1'/>
         </data-member>
         <data-member access='public' layout-offset-in-bits='5568'>
-          <var-decl name='cma_area' type-id='6f67b38a' visibility='default' filepath='include/linux/device.h' line='520' column='1'/>
+          <var-decl name='cma_area' type-id='6f67b38a' visibility='default' filepath='include/linux/device.h' line='521' column='1'/>
         </data-member>
         <data-member access='public' layout-offset-in-bits='5632'>
-          <var-decl name='archdata' type-id='d3e142f5' visibility='default' filepath='include/linux/device.h' line='524' column='1'/>
+          <var-decl name='archdata' type-id='d3e142f5' visibility='default' filepath='include/linux/device.h' line='525' column='1'/>
         </data-member>
         <data-member access='public' layout-offset-in-bits='5632'>
-          <var-decl name='of_node' type-id='9a537bbe' visibility='default' filepath='include/linux/device.h' line='526' column='1'/>
+          <var-decl name='of_node' type-id='9a537bbe' visibility='default' filepath='include/linux/device.h' line='527' column='1'/>
         </data-member>
         <data-member access='public' layout-offset-in-bits='5696'>
-          <var-decl name='fwnode' type-id='4a935625' visibility='default' filepath='include/linux/device.h' line='527' column='1'/>
+          <var-decl name='fwnode' type-id='4a935625' visibility='default' filepath='include/linux/device.h' line='528' column='1'/>
         </data-member>
         <data-member access='public' layout-offset-in-bits='5760'>
-          <var-decl name='devt' type-id='8504f260' visibility='default' filepath='include/linux/device.h' line='532' column='1'/>
+          <var-decl name='devt' type-id='8504f260' visibility='default' filepath='include/linux/device.h' line='533' column='1'/>
         </data-member>
         <data-member access='public' layout-offset-in-bits='5792'>
-          <var-decl name='id' type-id='19c2251e' visibility='default' filepath='include/linux/device.h' line='533' column='1'/>
+          <var-decl name='id' type-id='19c2251e' visibility='default' filepath='include/linux/device.h' line='534' column='1'/>
         </data-member>
         <data-member access='public' layout-offset-in-bits='5824'>
-          <var-decl name='devres_lock' type-id='fb4018a0' visibility='default' filepath='include/linux/device.h' line='535' column='1'/>
+          <var-decl name='devres_lock' type-id='fb4018a0' visibility='default' filepath='include/linux/device.h' line='536' column='1'/>
         </data-member>
         <data-member access='public' layout-offset-in-bits='5888'>
-          <var-decl name='devres_head' type-id='72f469ec' visibility='default' filepath='include/linux/device.h' line='536' column='1'/>
+          <var-decl name='devres_head' type-id='72f469ec' visibility='default' filepath='include/linux/device.h' line='537' column='1'/>
         </data-member>
         <data-member access='public' layout-offset-in-bits='6016'>
-          <var-decl name='class' type-id='67aca04f' visibility='default' filepath='include/linux/device.h' line='538' column='1'/>
+          <var-decl name='class' type-id='67aca04f' visibility='default' filepath='include/linux/device.h' line='539' column='1'/>
         </data-member>
         <data-member access='public' layout-offset-in-bits='6080'>
-          <var-decl name='groups' type-id='c97de1ac' visibility='default' filepath='include/linux/device.h' line='539' column='1'/>
+          <var-decl name='groups' type-id='c97de1ac' visibility='default' filepath='include/linux/device.h' line='540' column='1'/>
         </data-member>
         <data-member access='public' layout-offset-in-bits='6144'>
-          <var-decl name='release' type-id='dd787f72' visibility='default' filepath='include/linux/device.h' line='541' column='1'/>
+          <var-decl name='release' type-id='dd787f72' visibility='default' filepath='include/linux/device.h' line='542' column='1'/>
         </data-member>
         <data-member access='public' layout-offset-in-bits='6208'>
-          <var-decl name='iommu_group' type-id='0b19fc54' visibility='default' filepath='include/linux/device.h' line='542' column='1'/>
+          <var-decl name='iommu_group' type-id='0b19fc54' visibility='default' filepath='include/linux/device.h' line='543' column='1'/>
         </data-member>
         <data-member access='public' layout-offset-in-bits='6272'>
-          <var-decl name='iommu' type-id='12ad7b84' visibility='default' filepath='include/linux/device.h' line='543' column='1'/>
+          <var-decl name='iommu' type-id='12ad7b84' visibility='default' filepath='include/linux/device.h' line='544' column='1'/>
         </data-member>
         <data-member access='public' layout-offset-in-bits='0'>
-          <var-decl name='offline_disabled' type-id='b50a4934' visibility='default' filepath='include/linux/device.h' line='545' column='1'/>
+          <var-decl name='offline_disabled' type-id='b50a4934' visibility='default' filepath='include/linux/device.h' line='546' column='1'/>
         </data-member>
         <data-member access='public' layout-offset-in-bits='1'>
-          <var-decl name='offline' type-id='b50a4934' visibility='default' filepath='include/linux/device.h' line='546' column='1'/>
+          <var-decl name='offline' type-id='b50a4934' visibility='default' filepath='include/linux/device.h' line='547' column='1'/>
         </data-member>
         <data-member access='public' layout-offset-in-bits='2'>
-          <var-decl name='of_node_reused' type-id='b50a4934' visibility='default' filepath='include/linux/device.h' line='547' column='1'/>
+          <var-decl name='of_node_reused' type-id='b50a4934' visibility='default' filepath='include/linux/device.h' line='548' column='1'/>
         </data-member>
         <data-member access='public' layout-offset-in-bits='3'>
-          <var-decl name='state_synced' type-id='b50a4934' visibility='default' filepath='include/linux/device.h' line='548' column='1'/>
+          <var-decl name='state_synced' type-id='b50a4934' visibility='default' filepath='include/linux/device.h' line='549' column='1'/>
         </data-member>
         <data-member access='public' layout-offset-in-bits='6400'>
-          <var-decl name='android_kabi_reserved1' type-id='91ce1af9' visibility='default' filepath='include/linux/device.h' line='557' column='1'/>
+          <var-decl name='android_kabi_reserved1' type-id='91ce1af9' visibility='default' filepath='include/linux/device.h' line='558' column='1'/>
         </data-member>
         <data-member access='public' layout-offset-in-bits='6464'>
-          <var-decl name='android_kabi_reserved2' type-id='91ce1af9' visibility='default' filepath='include/linux/device.h' line='558' column='1'/>
+          <var-decl name='android_kabi_reserved2' type-id='91ce1af9' visibility='default' filepath='include/linux/device.h' line='559' column='1'/>
         </data-member>
         <data-member access='public' layout-offset-in-bits='6528'>
-          <var-decl name='android_kabi_reserved3' type-id='91ce1af9' visibility='default' filepath='include/linux/device.h' line='559' column='1'/>
+          <var-decl name='android_kabi_reserved3' type-id='91ce1af9' visibility='default' filepath='include/linux/device.h' line='560' column='1'/>
         </data-member>
         <data-member access='public' layout-offset-in-bits='6592'>
-          <var-decl name='android_kabi_reserved4' type-id='91ce1af9' visibility='default' filepath='include/linux/device.h' line='560' column='1'/>
+          <var-decl name='android_kabi_reserved4' type-id='91ce1af9' visibility='default' filepath='include/linux/device.h' line='561' column='1'/>
         </data-member>
         <data-member access='public' layout-offset-in-bits='6656'>
-          <var-decl name='android_kabi_reserved5' type-id='91ce1af9' visibility='default' filepath='include/linux/device.h' line='561' column='1'/>
+          <var-decl name='android_kabi_reserved5' type-id='91ce1af9' visibility='default' filepath='include/linux/device.h' line='562' column='1'/>
         </data-member>
         <data-member access='public' layout-offset-in-bits='6720'>
-          <var-decl name='android_kabi_reserved6' type-id='91ce1af9' visibility='default' filepath='include/linux/device.h' line='562' column='1'/>
+          <var-decl name='android_kabi_reserved6' type-id='91ce1af9' visibility='default' filepath='include/linux/device.h' line='563' column='1'/>
         </data-member>
         <data-member access='public' layout-offset-in-bits='6784'>
-          <var-decl name='android_kabi_reserved7' type-id='91ce1af9' visibility='default' filepath='include/linux/device.h' line='563' column='1'/>
+          <var-decl name='android_kabi_reserved7' type-id='91ce1af9' visibility='default' filepath='include/linux/device.h' line='564' column='1'/>
         </data-member>
         <data-member access='public' layout-offset-in-bits='6848'>
-          <var-decl name='android_kabi_reserved8' type-id='91ce1af9' visibility='default' filepath='include/linux/device.h' line='564' column='1'/>
+          <var-decl name='android_kabi_reserved8' type-id='91ce1af9' visibility='default' filepath='include/linux/device.h' line='565' column='1'/>
         </data-member>
       </class-decl>
       <class-decl name='kobject' size-in-bits='768' is-struct='yes' visibility='default' filepath='include/linux/kobject.h' line='65' column='1' id='b6ab8849'>
@@ -3333,21 +3333,21 @@
       <typedef-decl name='__s32' type-id='95e97e5e' filepath='include/uapi/asm-generic/int-ll64.h' line='26' column='1' id='3158a266'/>
       <typedef-decl name='cfi_check_fn' type-id='64115f6c' filepath='include/linux/cfi.h' line='11' column='1' id='d7c6106c'/>
       <typedef-decl name='uint64_t' type-id='91ce1af9' filepath='include/linux/types.h' line='107' column='1' id='9c313c2d'/>
-      <class-decl name='mutex' size-in-bits='384' is-struct='yes' visibility='default' filepath='include/linux/mutex.h' line='54' column='1' id='925167dc'>
+      <class-decl name='mutex' size-in-bits='384' is-struct='yes' visibility='default' filepath='include/linux/mutex.h' line='55' column='1' id='925167dc'>
         <data-member access='public' layout-offset-in-bits='0'>
-          <var-decl name='owner' type-id='f22a8abb' visibility='default' filepath='include/linux/mutex.h' line='55' column='1'/>
+          <var-decl name='owner' type-id='f22a8abb' visibility='default' filepath='include/linux/mutex.h' line='56' column='1'/>
         </data-member>
         <data-member access='public' layout-offset-in-bits='64'>
-          <var-decl name='wait_lock' type-id='fb4018a0' visibility='default' filepath='include/linux/mutex.h' line='56' column='1'/>
+          <var-decl name='wait_lock' type-id='fb4018a0' visibility='default' filepath='include/linux/mutex.h' line='57' column='1'/>
         </data-member>
         <data-member access='public' layout-offset-in-bits='96'>
-          <var-decl name='osq' type-id='0c3105cd' visibility='default' filepath='include/linux/mutex.h' line='58' column='1'/>
+          <var-decl name='osq' type-id='0c3105cd' visibility='default' filepath='include/linux/mutex.h' line='59' column='1'/>
         </data-member>
         <data-member access='public' layout-offset-in-bits='128'>
-          <var-decl name='wait_list' type-id='72f469ec' visibility='default' filepath='include/linux/mutex.h' line='60' column='1'/>
+          <var-decl name='wait_list' type-id='72f469ec' visibility='default' filepath='include/linux/mutex.h' line='61' column='1'/>
         </data-member>
         <data-member access='public' layout-offset-in-bits='256'>
-          <var-decl name='android_oem_data1' type-id='24a375b2' visibility='default' filepath='include/linux/mutex.h' line='67' column='1'/>
+          <var-decl name='android_oem_data1' type-id='24a375b2' visibility='default' filepath='include/linux/mutex.h' line='68' column='1'/>
         </data-member>
       </class-decl>
       <typedef-decl name='atomic_long_t' type-id='28ee064c' filepath='include/asm-generic/atomic-long.h' line='13' column='1' id='f22a8abb'/>
@@ -6347,38 +6347,38 @@
           <var-decl name='android_kabi_reserved4' type-id='91ce1af9' visibility='default' filepath='include/linux/fs.h' line='484' column='1'/>
         </data-member>
       </class-decl>
-      <class-decl name='xarray' size-in-bits='128' is-struct='yes' visibility='default' filepath='include/linux/xarray.h' line='292' column='1' id='d39738ac'>
+      <class-decl name='xarray' size-in-bits='128' is-struct='yes' visibility='default' filepath='include/linux/xarray.h' line='295' column='1' id='d39738ac'>
         <data-member access='public' layout-offset-in-bits='0'>
-          <var-decl name='xa_lock' type-id='fb4018a0' visibility='default' filepath='include/linux/xarray.h' line='293' column='1'/>
+          <var-decl name='xa_lock' type-id='fb4018a0' visibility='default' filepath='include/linux/xarray.h' line='296' column='1'/>
         </data-member>
         <data-member access='public' layout-offset-in-bits='32'>
-          <var-decl name='xa_flags' type-id='3eb7c31c' visibility='default' filepath='include/linux/xarray.h' line='295' column='1'/>
+          <var-decl name='xa_flags' type-id='3eb7c31c' visibility='default' filepath='include/linux/xarray.h' line='298' column='1'/>
         </data-member>
         <data-member access='public' layout-offset-in-bits='64'>
-          <var-decl name='xa_head' type-id='eaa32e2f' visibility='default' filepath='include/linux/xarray.h' line='296' column='1'/>
+          <var-decl name='xa_head' type-id='eaa32e2f' visibility='default' filepath='include/linux/xarray.h' line='299' column='1'/>
         </data-member>
       </class-decl>
-      <class-decl name='rw_semaphore' size-in-bits='512' is-struct='yes' visibility='default' filepath='include/linux/rwsem.h' line='36' column='1' id='f19fdb93'>
+      <class-decl name='rw_semaphore' size-in-bits='512' is-struct='yes' visibility='default' filepath='include/linux/rwsem.h' line='38' column='1' id='f19fdb93'>
         <data-member access='public' layout-offset-in-bits='0'>
-          <var-decl name='count' type-id='f22a8abb' visibility='default' filepath='include/linux/rwsem.h' line='37' column='1'/>
+          <var-decl name='count' type-id='f22a8abb' visibility='default' filepath='include/linux/rwsem.h' line='39' column='1'/>
         </data-member>
         <data-member access='public' layout-offset-in-bits='64'>
-          <var-decl name='owner' type-id='f22a8abb' visibility='default' filepath='include/linux/rwsem.h' line='43' column='1'/>
+          <var-decl name='owner' type-id='f22a8abb' visibility='default' filepath='include/linux/rwsem.h' line='45' column='1'/>
         </data-member>
         <data-member access='public' layout-offset-in-bits='128'>
-          <var-decl name='osq' type-id='0c3105cd' visibility='default' filepath='include/linux/rwsem.h' line='45' column='1'/>
+          <var-decl name='osq' type-id='0c3105cd' visibility='default' filepath='include/linux/rwsem.h' line='47' column='1'/>
         </data-member>
         <data-member access='public' layout-offset-in-bits='160'>
-          <var-decl name='wait_lock' type-id='f5c90b3f' visibility='default' filepath='include/linux/rwsem.h' line='47' column='1'/>
+          <var-decl name='wait_lock' type-id='f5c90b3f' visibility='default' filepath='include/linux/rwsem.h' line='49' column='1'/>
         </data-member>
         <data-member access='public' layout-offset-in-bits='192'>
-          <var-decl name='wait_list' type-id='72f469ec' visibility='default' filepath='include/linux/rwsem.h' line='48' column='1'/>
+          <var-decl name='wait_list' type-id='72f469ec' visibility='default' filepath='include/linux/rwsem.h' line='50' column='1'/>
         </data-member>
         <data-member access='public' layout-offset-in-bits='320'>
-          <var-decl name='android_vendor_data1' type-id='91ce1af9' visibility='default' filepath='include/linux/rwsem.h' line='55' column='1'/>
+          <var-decl name='android_vendor_data1' type-id='91ce1af9' visibility='default' filepath='include/linux/rwsem.h' line='57' column='1'/>
         </data-member>
         <data-member access='public' layout-offset-in-bits='384'>
-          <var-decl name='android_oem_data1' type-id='24a375b2' visibility='default' filepath='include/linux/rwsem.h' line='56' column='1'/>
+          <var-decl name='android_oem_data1' type-id='24a375b2' visibility='default' filepath='include/linux/rwsem.h' line='58' column='1'/>
         </data-member>
       </class-decl>
       <class-decl name='address_space_operations' size-in-bits='1664' is-struct='yes' visibility='default' filepath='include/linux/fs.h' line='371' column='1' id='66fa8ce5'>
@@ -14701,24 +14701,24 @@
         <enumerator name='KOBJ_NS_TYPE_NET' value='1'/>
         <enumerator name='KOBJ_NS_TYPES' value='2'/>
       </enum-decl>
-      <class-decl name='device_type' size-in-bits='384' is-struct='yes' visibility='default' filepath='include/linux/device.h' line='88' column='1' id='bdae35f4'>
+      <class-decl name='device_type' size-in-bits='384' is-struct='yes' visibility='default' filepath='include/linux/device.h' line='89' column='1' id='bdae35f4'>
         <data-member access='public' layout-offset-in-bits='0'>
-          <var-decl name='name' type-id='80f4b756' visibility='default' filepath='include/linux/device.h' line='89' column='1'/>
+          <var-decl name='name' type-id='80f4b756' visibility='default' filepath='include/linux/device.h' line='90' column='1'/>
         </data-member>
         <data-member access='public' layout-offset-in-bits='64'>
-          <var-decl name='groups' type-id='c97de1ac' visibility='default' filepath='include/linux/device.h' line='90' column='1'/>
+          <var-decl name='groups' type-id='c97de1ac' visibility='default' filepath='include/linux/device.h' line='91' column='1'/>
         </data-member>
         <data-member access='public' layout-offset-in-bits='128'>
-          <var-decl name='uevent' type-id='22deb949' visibility='default' filepath='include/linux/device.h' line='91' column='1'/>
+          <var-decl name='uevent' type-id='22deb949' visibility='default' filepath='include/linux/device.h' line='92' column='1'/>
         </data-member>
         <data-member access='public' layout-offset-in-bits='192'>
-          <var-decl name='devnode' type-id='b72fdee5' visibility='default' filepath='include/linux/device.h' line='92' column='1'/>
+          <var-decl name='devnode' type-id='b72fdee5' visibility='default' filepath='include/linux/device.h' line='93' column='1'/>
         </data-member>
         <data-member access='public' layout-offset-in-bits='256'>
-          <var-decl name='release' type-id='dd787f72' visibility='default' filepath='include/linux/device.h' line='94' column='1'/>
+          <var-decl name='release' type-id='dd787f72' visibility='default' filepath='include/linux/device.h' line='95' column='1'/>
         </data-member>
         <data-member access='public' layout-offset-in-bits='320'>
-          <var-decl name='pm' type-id='3fab024e' visibility='default' filepath='include/linux/device.h' line='96' column='1'/>
+          <var-decl name='pm' type-id='3fab024e' visibility='default' filepath='include/linux/device.h' line='97' column='1'/>
         </data-member>
       </class-decl>
       <class-decl name='dev_pm_ops' size-in-bits='1536' is-struct='yes' visibility='default' filepath='include/linux/pm.h' line='279' column='1' id='3ea82289'>
@@ -14990,21 +14990,21 @@
           <var-decl name='event' type-id='95e97e5e' visibility='default' filepath='include/linux/pm.h' line='52' column='1'/>
         </data-member>
       </class-decl>
-      <class-decl name='dev_links_info' size-in-bits='448' is-struct='yes' visibility='default' filepath='include/linux/device.h' line='361' column='1' id='2d178f63'>
+      <class-decl name='dev_links_info' size-in-bits='448' is-struct='yes' visibility='default' filepath='include/linux/device.h' line='362' column='1' id='2d178f63'>
         <data-member access='public' layout-offset-in-bits='0'>
-          <var-decl name='suppliers' type-id='72f469ec' visibility='default' filepath='include/linux/device.h' line='362' column='1'/>
+          <var-decl name='suppliers' type-id='72f469ec' visibility='default' filepath='include/linux/device.h' line='363' column='1'/>
         </data-member>
         <data-member access='public' layout-offset-in-bits='128'>
-          <var-decl name='consumers' type-id='72f469ec' visibility='default' filepath='include/linux/device.h' line='363' column='1'/>
+          <var-decl name='consumers' type-id='72f469ec' visibility='default' filepath='include/linux/device.h' line='364' column='1'/>
         </data-member>
         <data-member access='public' layout-offset-in-bits='256'>
-          <var-decl name='defer_sync' type-id='72f469ec' visibility='default' filepath='include/linux/device.h' line='364' column='1'/>
+          <var-decl name='defer_sync' type-id='72f469ec' visibility='default' filepath='include/linux/device.h' line='365' column='1'/>
         </data-member>
         <data-member access='public' layout-offset-in-bits='384'>
-          <var-decl name='status' type-id='070abca2' visibility='default' filepath='include/linux/device.h' line='365' column='1'/>
+          <var-decl name='status' type-id='070abca2' visibility='default' filepath='include/linux/device.h' line='366' column='1'/>
         </data-member>
       </class-decl>
-      <enum-decl name='dl_dev_state' filepath='include/linux/device.h' line='347' column='1' id='070abca2'>
+      <enum-decl name='dl_dev_state' filepath='include/linux/device.h' line='348' column='1' id='070abca2'>
         <underlying-type type-id='9cac1fee'/>
         <enumerator name='DL_DEV_NO_DRIVER' value='0'/>
         <enumerator name='DL_DEV_PROBING' value='1'/>
@@ -15279,15 +15279,15 @@
           <var-decl name='android_kabi_reserved1' type-id='91ce1af9' visibility='default' filepath='include/linux/pm.h' line='657' column='1'/>
         </data-member>
       </class-decl>
-      <class-decl name='device_dma_parameters' size-in-bits='128' is-struct='yes' visibility='default' filepath='include/linux/device.h' line='289' column='1' id='37251e77'>
+      <class-decl name='device_dma_parameters' size-in-bits='128' is-struct='yes' visibility='default' filepath='include/linux/device.h' line='290' column='1' id='37251e77'>
         <data-member access='public' layout-offset-in-bits='0'>
-          <var-decl name='max_segment_size' type-id='f0981eeb' visibility='default' filepath='include/linux/device.h' line='294' column='1'/>
+          <var-decl name='max_segment_size' type-id='f0981eeb' visibility='default' filepath='include/linux/device.h' line='295' column='1'/>
         </data-member>
         <data-member access='public' layout-offset-in-bits='32'>
-          <var-decl name='min_align_mask' type-id='f0981eeb' visibility='default' filepath='include/linux/device.h' line='295' column='1'/>
+          <var-decl name='min_align_mask' type-id='f0981eeb' visibility='default' filepath='include/linux/device.h' line='296' column='1'/>
         </data-member>
         <data-member access='public' layout-offset-in-bits='64'>
-          <var-decl name='segment_boundary_mask' type-id='7359adad' visibility='default' filepath='include/linux/device.h' line='296' column='1'/>
+          <var-decl name='segment_boundary_mask' type-id='7359adad' visibility='default' filepath='include/linux/device.h' line='297' column='1'/>
         </data-member>
       </class-decl>
       <class-decl name='dev_archdata' is-struct='yes' visibility='default' filepath='arch/x86/include/asm/device.h' line='5' column='1' id='d3e142f5'/>
@@ -15507,7 +15507,7 @@
           <var-decl name='android_kabi_reserved4' type-id='91ce1af9' visibility='default' filepath='include/linux/device/class.h' line='83' column='1'/>
         </data-member>
       </class-decl>
-      <enum-decl name='irqchip_irq_state' filepath='include/linux/interrupt.h' line='482' column='1' id='0187da1b'>
+      <enum-decl name='irqchip_irq_state' filepath='include/linux/interrupt.h' line='490' column='1' id='0187da1b'>
         <underlying-type type-id='9cac1fee'/>
         <enumerator name='IRQCHIP_STATE_PENDING' value='0'/>
         <enumerator name='IRQCHIP_STATE_ACTIVE' value='1'/>
